@@ -1,4 +1,4 @@
-# MyPortfolio
+# Ajay Singh Panwar | Personal Portfolio
 
 I'm proud to present my meticulously crafted portfolio, brought to life with the perfect blend of cutting-edge technologies. Leveraging the power of Next.js, I've seamlessly woven together the fabric of dynamic and performant web experiences. The visual allure and responsiveness are sculpted using Tailwind CSS, ensuring a harmonious balance between aesthetics and functionality.
 
@@ -9,8 +9,3 @@ Underneath the polished surface lies the robust foundation of TypeScript, lendin
 Feel free to explore and witness firsthand the synergy of Next.js, Tailwind, CSS, Framer Motion, and TypeScript."
 
 Feel free to personalize and adjust this description further to match your style and preferences.
-
-
-
-
-

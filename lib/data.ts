@@ -57,6 +57,14 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "Sept 2022 - Aug 2023",
   },
+  {
+    title: "Software Engineer",
+    location: "Sector 63, Noida",
+    description:
+      "I am responsible for contributing to the architecture and implementation of features and functionalities within the mobile applications. Also, I Collaborate with web team to work on api integrations, with cross functional teams to achieve deadlines, etc.",
+    icon: React.createElement(FaReact),
+    date: "Sept 2023 - Present",
+  },
 ] as const;
 
 export const projectsData = [

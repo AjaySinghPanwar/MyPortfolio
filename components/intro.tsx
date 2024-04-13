@@ -29,7 +29,7 @@ export default function Intro() {
             transition={{ type: "tween", duration: 0.2 }}
           >
             <Image
-              src={"/profile_image.png"}
+              src={"/profile_image.jpg"}
               alt="profile-image"
               width={192}
               height={192}
@@ -61,7 +61,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Ajay.</span> I'm a{" "}
         <span className="font-bold">mobile application developer</span> with{" "}
-        <span className="font-bold">2 years</span> of experience. I enjoy
+        <span className="font-bold">2+ years</span> of experience. I enjoy
         building <span className="italic">apps</span>. My primary focus is{" "}
         <span className="underline">React Native</span>.
       </motion.h1>
